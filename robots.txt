@@ -1,0 +1,24 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://dirohadu.github.io/sitemap/sitemap_index.dirohadu
+Sitemap: https://dirohadu.github.io/EuG/sitemap_index.dirohadu
+Sitemap: https://dirohadu.github.io/pSs/sitemap_index.dirohadu
+Sitemap: https://dirohadu.github.io/yjf/sitemap_index.dirohadu
+Sitemap: https://dirohadu.github.io/Nwy/sitemap_index.dirohadu
+Sitemap: https://dirohadu.github.io/LPC/sitemap_index.dirohadu
+Sitemap: https://dirohadu.github.io/uDn/sitemap_index.dirohadu
+Sitemap: https://dirohadu.github.io/HQL/sitemap_index.dirohadu
+Sitemap: https://dirohadu.github.io/ugT/sitemap_index.dirohadu
+Sitemap: https://dirohadu.github.io/ETJ/sitemap_index.dirohadu
+Sitemap: https://dirohadu.github.io/Oqr/sitemap_index.dirohadu
+Sitemap: https://dirohadu.github.io/OXw/sitemap_index.dirohadu
+Sitemap: https://dirohadu.github.io/Gtm/sitemap_index.dirohadu
+Sitemap: https://dirohadu.github.io/AWs/sitemap_index.dirohadu
+Sitemap: https://dirohadu.github.io/Jsh/sitemap_index.dirohadu
+Sitemap: https://dirohadu.github.io/Btp/sitemap_index.dirohadu
+Sitemap: https://dirohadu.github.io/YaA/sitemap_index.dirohadu
+Sitemap: https://dirohadu.github.io/jQI/sitemap_index.dirohadu
+Sitemap: https://dirohadu.github.io/FUa/sitemap_index.dirohadu
+Sitemap: https://dirohadu.github.io/cIl/sitemap_index.dirohadu
+Sitemap: https://dirohadu.github.io/Eni/sitemap_index.dirohadu
